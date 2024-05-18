@@ -10,6 +10,8 @@ Use it only if you fully understand all risks and consequences. In case of any i
 
 Raminit, as the name suggests, is responsible for initializing RAM. This is a small (about 4kb) file that is loaded into small RAM, which does not require initialization.
 
+Source code and build instructions can be found at https://github.com/hitechshell/balong-raminit
+
 ## What is payload?
 
 Any binary file that is compiled to run on a suitable architecture. For example U-Boot or legacy bootloader from vendor.
